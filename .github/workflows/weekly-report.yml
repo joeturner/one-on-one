@@ -26,22 +26,25 @@ jobs:
         \
         ### What can we talk about? \
         \
-        - [TODO] \
+        - _Anything that's on your mind! Work related or not._ \
         \
         ### What can we celebrate? \
         \
-        - [TODO] \
+        - _Difficult task you accomplished, work you're proud of, kudos you've gotten._ \
         \
         ### What is frustrating, blocking, or confusing you? \
         \
-        - [TODO] \
+        - _How things can go smoother, times you were annoyed, areas where clarity is needed._ \
         \
         ### What are your goals for the week? \
         \
-        - [TODO] \
+        - _Tasks you've committed to working on within your team's radar or within your own project plan._ \
         \
         ### Do you have any feedback for me or your teammates? \
         - [TODO]' $f
+        \
+        ### Notes & Action items \
+        _To be filled out by your manager._' $f
         \
         \
         done
